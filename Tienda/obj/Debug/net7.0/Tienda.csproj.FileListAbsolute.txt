@@ -1,0 +1,17 @@
+/home/apolt01-009/Downloads/DG/CSharp/Tienda/bin/Debug/net7.0/Tienda
+/home/apolt01-009/Downloads/DG/CSharp/Tienda/bin/Debug/net7.0/Tienda.deps.json
+/home/apolt01-009/Downloads/DG/CSharp/Tienda/bin/Debug/net7.0/Tienda.runtimeconfig.json
+/home/apolt01-009/Downloads/DG/CSharp/Tienda/bin/Debug/net7.0/Tienda.dll
+/home/apolt01-009/Downloads/DG/CSharp/Tienda/bin/Debug/net7.0/Tienda.pdb
+/home/apolt01-009/Downloads/DG/CSharp/Tienda/obj/Debug/net7.0/Tienda.csproj.AssemblyReference.cache
+/home/apolt01-009/Downloads/DG/CSharp/Tienda/obj/Debug/net7.0/Tienda.GeneratedMSBuildEditorConfig.editorconfig
+/home/apolt01-009/Downloads/DG/CSharp/Tienda/obj/Debug/net7.0/Tienda.AssemblyInfoInputs.cache
+/home/apolt01-009/Downloads/DG/CSharp/Tienda/obj/Debug/net7.0/Tienda.AssemblyInfo.cs
+/home/apolt01-009/Downloads/DG/CSharp/Tienda/obj/Debug/net7.0/Tienda.csproj.CoreCompileInputs.cache
+/home/apolt01-009/Downloads/DG/CSharp/Tienda/obj/Debug/net7.0/Tienda.dll
+/home/apolt01-009/Downloads/DG/CSharp/Tienda/obj/Debug/net7.0/refint/Tienda.dll
+/home/apolt01-009/Downloads/DG/CSharp/Tienda/obj/Debug/net7.0/Tienda.pdb
+/home/apolt01-009/Downloads/DG/CSharp/Tienda/obj/Debug/net7.0/Tienda.genruntimeconfig.cache
+/home/apolt01-009/Downloads/DG/CSharp/Tienda/obj/Debug/net7.0/ref/Tienda.dll
+/home/apolt01-009/Downloads/DG/CSharp/Tienda/bin/Debug/net7.0/Newtonsoft.Json.dll
+/home/apolt01-009/Downloads/DG/CSharp/Tienda/obj/Debug/net7.0/Tienda.csproj.CopyComplete
